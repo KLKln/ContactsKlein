@@ -12,22 +12,8 @@ namespace ContactsKlein
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\Views\Shared\_ViewImports.cshtml"
-using ContactsKlein;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 2 "C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\Views\Shared\_ViewImports.cshtml"
-using Microsoft.AspNetCore.Identity;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"93f1729ee62fa0ca5aaf4be9de1637cd50999d11", @"/Views/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dd9b8b2a04f4fd5c54aa5496841e622558fac737", @"/Views/Shared/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5f6eb1d415d2de0049d9b3503a28b9c806886680", @"/Views/Shared/_ViewImports.cshtml")]
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -56,7 +42,7 @@ using Microsoft.AspNetCore.Identity;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93f1729ee62fa0ca5aaf4be9de1637cd50999d113310", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93f1729ee62fa0ca5aaf4be9de1637cd50999d112912", async() => {
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>");
 #nullable restore
 #line 7 "C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\Views\Shared\_Layout.cshtml"
@@ -78,7 +64,7 @@ using Microsoft.AspNetCore.Identity;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93f1729ee62fa0ca5aaf4be9de1637cd50999d114782", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "93f1729ee62fa0ca5aaf4be9de1637cd50999d114384", async() => {
                 WriteLiteral("\r\n    <div class=\"container\">\r\n        <header> class=\"jumbotron\">\r\n                <h1>Contact List</h1>\r\n        </header>\r\n        ");
 #nullable restore
 #line 15 "C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\Views\Shared\_Layout.cshtml"

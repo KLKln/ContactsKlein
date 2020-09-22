@@ -4,7 +4,6 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\ContactsKlein.exe
-C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csprojAssemblyReference.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.AssemblyInfoInputs.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.AssemblyInfo.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.RazorTargetAssemblyInfo.cache
@@ -146,9 +145,10 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Edit.cshtml.g.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Delete.cshtml.g.cs
-C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Genre.cshtml.g.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csproj.CoreCompileInputs.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.Properties.Resources.resources
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csproj.GenerateResource.cache

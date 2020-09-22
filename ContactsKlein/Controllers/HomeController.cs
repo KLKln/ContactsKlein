@@ -9,16 +9,16 @@ namespace ContactsKlein.Controllers
 {
     public class HomeController : Controller
     {
-        private ContactContext context { get; set; }
+        private ContactContext Context { get; set; }
 
         public HomeController(ContactContext ctx)
         {
-            context = ctx;
+            Context = ctx;
         }
 
         public IActionResult Index()
         {
-            var contacts = context.Contacts.OrderBy(c => c.LastName).ToList();
+            var contacts = Context.Contacts.OrderBy(c => c.LastName).ToList();
             return View(contacts);
         }
     }

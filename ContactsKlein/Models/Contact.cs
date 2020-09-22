@@ -11,13 +11,13 @@ namespace ContactsKlein.Models
     {
         public int ContactId { get; set; }
         [Required(ErrorMessage = "Please enter a last name.")]
-        public String LastName {get; set;}
+        public string LastName {get; set;}
         [Required(ErrorMessage = "Please enter a first name.")]
-        public String FirstName { get; set; }
+        public string FirstName { get; set; }
         [Required(ErrorMessage = "Please enter a phone number.")]
-        public String PhoneNumber { get; set; }
-        public String Address { get; set; }
-        public String Note { get; set; }
+        public string PhoneNumber { get; set; }
+        public string Address { get; set; }
+        public string Note { get; set; }
 
     }
 }
