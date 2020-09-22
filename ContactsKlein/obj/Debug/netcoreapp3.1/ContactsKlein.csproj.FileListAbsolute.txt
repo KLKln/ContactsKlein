@@ -130,7 +130,6 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.TagHelpers.input.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.TagHelpers.output.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.RazorCoreGenerate.cache
-C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.RazorTargetAssemblyInfo.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.Views.pdb
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -148,7 +147,18 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csproj.CoreCompileInputs.cache
-C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.Properties.Resources.resources
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csproj.GenerateResource.cache
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csprojAssemblyReference.cache
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\cis174kmklein - Web Deploy\profile.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.cis174kmklein - Web Deploy.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\cis174kmklein - Web Deploy\mssql1.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\cis174kmklein - Web Deploy\mssql2.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\cis174kmklein - Web Deploy\secrets1.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csproj.CoreCompileInputs.cache
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.MvcApplicationPartsAssemblyInfo.cache

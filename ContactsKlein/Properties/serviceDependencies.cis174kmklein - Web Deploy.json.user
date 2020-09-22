@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2020-09-22T23:08:18.0032558Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-09-22T23:07:01.3212815Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-09-22T23:07:45.2833076Z"
+    }
+  },
+  "parameters": {
+    "mssql2.subscriptionId": {
+      "Type": "subscription",
+      "Value": "bbb09edf-9176-4e1b-8537-84ba821194a2"
+    },
+    "mssql2.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "cis174kmklein"
+    },
+    "secrets1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "cis174kmklein"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "bbb09edf-9176-4e1b-8537-84ba821194a2"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "cis174kmklein"
+    },
+    "secrets1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "bbb09edf-9176-4e1b-8537-84ba821194a2"
+    }
+  }
+}

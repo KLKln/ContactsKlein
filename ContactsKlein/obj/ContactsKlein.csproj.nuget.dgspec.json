@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"

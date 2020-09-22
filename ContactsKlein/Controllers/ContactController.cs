@@ -9,11 +9,11 @@ namespace ContactsKlein.Controllers
 {
     public class ContactController : Controller
     {
-        private ContactContext Context { get; set; }
+        private ContactContext context { get; set; }
 
         public ContactController(ContactContext ctx)
         {
-            Context = ctx;
+            context = ctx;
         }
 
         [HttpGet]
@@ -27,7 +27,7 @@ namespace ContactsKlein.Controllers
         public IActionResult Edit(int Id)
         {
             ViewBag.Action = "Edit";
-            var contact = Context.Contacts.Find(Id);
+            var contact = context.Contacts.Find(Id);
             return View(contact);
         }
 
@@ -38,11 +38,11 @@ namespace ContactsKlein.Controllers
             {
                 if (contact.ContactId == 0)
                 {
-                    Context.Contacts.Add(contact);
+                    context.Contacts.Add(contact);
                 }
                 else
-                    Context.Contacts.Update(contact);
-                Context.SaveChanges();
+                    context.Contacts.Update(contact);
+                context.SaveChanges();
                 return RedirectToAction("Index", "Home");
             }
             else
@@ -55,15 +55,15 @@ namespace ContactsKlein.Controllers
         [HttpGet]
         public IActionResult Delete(int Id)
         {
-            var contact = Context.Contacts.Find(Id);
+            var contact = context.Contacts.Find(Id);
             return View(contact);
         }
 
         [HttpPost]
         public IActionResult Delete(Contact contact)
         {
-            Context.Contacts.Remove(contact);
-            Context.SaveChanges();
+            context.Contacts.Remove(contact);
+            context.SaveChanges();
             return RedirectToAction("Index", "Home");
         }
 
