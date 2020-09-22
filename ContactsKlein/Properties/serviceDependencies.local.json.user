@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-09-22T16:24:58.8950872Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-09-22T16:25:28.2737823Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "bbb09edf-9176-4e1b-8537-84ba821194a2"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "cis174kmklein"
+    }
+  }
+}
