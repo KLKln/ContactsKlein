@@ -4,13 +4,13 @@
       "type": "secrets",
       "connectionId": "VaultUri"
     },
-    "mssql1": {
-      "type": "mssql",
-      "connectionId": "ContactKleinDB"
-    },
     "mssql2": {
       "type": "mssql",
       "connectionId": "ContactContext"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ContactKleinDB"
     }
   }
 }
