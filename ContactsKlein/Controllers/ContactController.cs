@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using ContactsKlein.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ContactsKlein.Controllers
+namespace ContactsKlein.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class ContactController : Controller
     {
         private ContactContext context { get; set; }

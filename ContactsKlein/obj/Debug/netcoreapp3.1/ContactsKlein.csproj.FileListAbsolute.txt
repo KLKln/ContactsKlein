@@ -162,3 +162,16 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.csproj.CoreCompileInputs.cache
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\ContactsKlein.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.ContactsKlein20200922184128 - Web Deploy.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\mssql1.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\mssql2.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\profile.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\secrets1.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Home\DummyPage2.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Home\DummyPage3.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Debug\netcoreapp3.1\Razor\Views\Home\DummyPage1.cshtml.g.cs

@@ -1,0 +1,38 @@
+﻿@model List<ContactsKlein.Models.Contact>
+@{ 
+    ViewBag.Title = "Contacts";
+}
+
+<!DOCTYPE html>
+
+<h2>Contact List Admin</h2>
+
+<a asp-controller="Contact" asp-action="Add">Add New Contact</a>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Last Name</th>
+            <th>First Name</th>
+            <th>Phone Number</th>
+            <th>Address</th>
+            <th>Note</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.LastName</td>
+                <td>@contact.FirstName</td>
+                <td>@contact.PhoneNumber</td>
+                <td>@contact.Address</td>
+                <td>@contact.Note</td>
+                <td>
+                    <a asp-controller="Contact" asp-Action="Edit" asp-route-id="@contact.ContactId">Edit</a>
+                    <a asp-controller="Contact" asp-Action="Delete" asp-route-id="@contact.ContactId">Delete</a>
+                </td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>

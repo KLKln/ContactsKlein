@@ -167,3 +167,4 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\mssql2.arm.json
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\profile.arm.json
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\secrets1.arm.json
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
