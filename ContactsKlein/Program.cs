@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 using Azure.Identity;
 
 namespace ContactsKlein
+    //use for microsoft azure deployment
 {
     public class Program
     {
@@ -18,8 +19,7 @@ namespace ContactsKlein
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-.ConfigureAppConfiguration((context, config) =>
+            Host.CreateDefaultBuilder(args).ConfigureAppConfiguration((context, config) =>
 {
 var keyVaultEndpoint = new Uri(Environment.GetEnvironmentVariable("VaultUri"));
 config.AddAzureKeyVault(
@@ -32,3 +32,21 @@ new DefaultAzureCredential());
                 });
     }
 }
+
+    //use for developing in visual studio
+/*{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            CreateHostBuilder(args).Build().Run();
+        }
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+    }
+}*/

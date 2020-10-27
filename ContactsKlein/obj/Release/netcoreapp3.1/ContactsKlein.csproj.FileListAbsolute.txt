@@ -168,3 +168,10 @@ C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\profile.arm.json
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContactsKlein20200922184128 - Web Deploy\secrets1.arm.json
 C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Views\Home\DummyPage1.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Views\Home\DummyPage2.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Views\Home\DummyPage3.cshtml.g.cs
+C:\Users\burnt\source\repos\ContactsKlein\ContactsKlein\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
