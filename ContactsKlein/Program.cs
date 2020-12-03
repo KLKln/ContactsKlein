@@ -10,7 +10,7 @@ using Azure.Identity;
 
 namespace ContactsKlein
     //use for microsoft azure deployment
-{
+/*{
     public class Program
     {
         public static void Main(string[] args)
@@ -31,10 +31,10 @@ new DefaultAzureCredential());
                     webBuilder.UseStartup<Startup>();
                 });
     }
-}
+}*/
 
     //use for developing in visual studio
-/*{
+{
     public class Program
     {
         public static void Main(string[] args)
@@ -49,4 +49,4 @@ new DefaultAzureCredential());
                     webBuilder.UseStartup<Startup>();
                 });
     }
-}*/
+}

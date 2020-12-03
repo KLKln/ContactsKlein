@@ -11,8 +11,10 @@ namespace ContactsKlein.Models
     {
         public int ContactId { get; set; }
         [Required(ErrorMessage = "Please enter a last name.")]
+        [RegularExpression("^[a-zA-Z0-9]+$", ErrorMessage = "Name may not contain special characters")]
         public string LastName {get; set;}
         [Required(ErrorMessage = "Please enter a first name.")]
+        [RegularExpression("^[a-zA-Z0-9]+$", ErrorMessage = "Name may not contain special characters")]
         public string FirstName { get; set; }
         [Required(ErrorMessage = "Please enter a phone number.")]
         public string PhoneNumber { get; set; }
